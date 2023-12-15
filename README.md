@@ -16,7 +16,7 @@
 - Node.js
   
 ### ВБУДОВАНІ СИСТЕМИ ⚙️
-<img src="https://github.com/shmakers/shmakers/assets/153901894/1996561c-0693-450d-a259-4904d49c8798" width="100" height="100" alt="Embedded Systems"> <br/>
+<img src="https://github.com/shmakers/shmakers/assets/153901894/1996561c-0693-450d-a259-4904d49c8798" width="100" height="100" alt="Embedded Systems"><br>
 Відкрийте для себе таємний світ мікроконтролерів та IoT, де кожен чіп має свою історію.
 
 - Arduino
