@@ -5,7 +5,7 @@
 ## Наші напрямки
 
 ### WEB 🌐
-![Web Development](https://icons8.com/icon/set/web/popular) 
+<img src="<img src="https://github.com/shmakers/shmakers/assets/153901894/1996561c-0693-450d-a259-4904d49c8798" width="100" height="100" alt="Embedded Systems"><br>" width="100" height="100" alt="Embedded Systems"><br>
 Досліджуйте необмежені можливості веб-розробки, від мистецтва коду до магії фронтенду та бекенду.
 
 - HTML5
@@ -24,7 +24,7 @@
 - IoT
 
 ### ДИЗАЙН 🎨
-![Design](https://iconscout.com/icon/design-5)
+<img src="https://github.com/shmakers/shmakers/assets/153901894/37581dc6-98e0-41f0-895e-b1463a8e4562" width="100" height="100" alt="Embedded Systems"><br>
 Зануртеся в світ кольорів та форм, де ви створюєте візуальні шедеври, що розмовляють з користувачами.
 
 - Adobe Photoshop
@@ -33,7 +33,7 @@
 - Figma
 
 ### РОЗРОБКА ІГОР 🎮
-![Game Development](https://icons8.com/icon/set/game-development/popular)
+<img src="https://github.com/shmakers/shmakers/assets/153901894/0063907b-e60c-4e41-b548-2e4554d266ef" width="100" height="100" alt="Embedded Systems"><br>
 Створіть власні світи, де кожна деталь і кожен персонаж оживає під вашими пальцями.
 
 - Unity
