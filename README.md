@@ -5,7 +5,7 @@
 ## Наші напрямки
 
 ### WEB 🌐
-<img src="<img src="https://github.com/shmakers/shmakers/assets/153901894/1996561c-0693-450d-a259-4904d49c8798" width="100" height="100" alt="Embedded Systems"><br>" width="100" height="100" alt="Embedded Systems"><br>
+<img src="https://github.com/shmakers/shmakers/assets/153901894/b7147f59-d68f-4fa8-95b2-707944d1ebd3" width="100" height="100" alt="web"><br>
 Досліджуйте необмежені можливості веб-розробки, від мистецтва коду до магії фронтенду та бекенду.
 
 - HTML5
